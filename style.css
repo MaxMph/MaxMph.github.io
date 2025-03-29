@@ -1,6 +1,6 @@
 
 img {
-    width: 200px;
+    #width: 200px;
   }
 
 p {
@@ -11,6 +11,11 @@ p {
 a {
     color: aliceblue;
 }
+
+h1 {
+    margin-bottom: -10px;
+}
+
 body {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
